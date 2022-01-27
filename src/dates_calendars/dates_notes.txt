@@ -1,0 +1,27 @@
+HH / H --- hours in 24 hour time format
+
+hh / h --- hours in 12 hour time format
+
+mm / m --- time in minutes
+
+MM / M --- number of current month
+
+MMM  --- first 3 letters of current month
+
+MMMM  --- full name of current month
+
+dd / d --- day of month
+
+DD / D --- day of year
+
+YYYY = yyyy  --- year of the century 
+
+YY = yy  --- current year
+
+ss / s --- time in seconds
+
+sss  --- time in milliseconds
+
+SSS  --- 
+
+aa / aaa  --- time AM or PM 

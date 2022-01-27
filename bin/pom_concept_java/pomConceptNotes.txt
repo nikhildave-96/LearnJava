@@ -1,0 +1,11 @@
+There is no usage of extends nor of implements keywords inside both the classes
+
+This java concept is the basic idea behind POM design pattern
+
+Just create object of class of which you desire to use its methods and variables inside your testcase class
+
+main method or testNG is necessary for using this concept  (Noted - void return type method cases only)
+
+using object of that particular class we can access that class's methods inside our testcase class 
+
+This concept is very useful in framework structure as we call methods from page Object class inside our testcase class

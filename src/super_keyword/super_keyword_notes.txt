@@ -1,0 +1,12 @@
+1. 'super' is a keyword in Java
+2. 'super' keyword is used to inherit parent class properties to child class
+3. inheritance is mandatory for using 'super' keyword
+4. parent class constructor is called/inherited inside child class using the syntax >>>>> super();
+5. parent class variable is called/inherited inside child class using the syntax  >>>>>   super.variablename();
+6. parent class method is called/inherited inside child class using the syntax  >>>>>   super.methodname();
+7. constructor call using the syntax     >>>>> super();      must be the very first statement inside a constructor
+8. 'super' keyword cannot be used inside static content
+9. 'super' keyword is automatically placed inside child class constructor by java for calling parent class constructor
+10. 'super' keyword is capable of carrying and supplying arguments and it will call matching argument parent class constructor
+11. default constructor of parent class wont be called by compiler if user calls a constructor with some arguments from parent class
+12. super(argument) is valid and will throw no error is there exists a matching contructor in parent class
